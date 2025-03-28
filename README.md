@@ -24,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img src="https://th.bing.com/th/id/OIP.afBPcjdzHdCgIWXvNFePxQHaCy?rs=1&pid=ImgDetMain" height="20" alt="golang logo"/>
 </div>
 
 <hr/>
