@@ -126,13 +126,10 @@
   </br>
 </div>
 
-### teste
+###
 
 <h1></h1>
-      
-<div align="center">
-  <img src="https://profile-counter.glitch.me/FelipeNCampos/count.svg?"  />
-</div>
+
 
 ###
 
