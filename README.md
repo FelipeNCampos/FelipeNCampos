@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/badge/Sass-CD6799?style=flat&logo=sass&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/RabbitMQ-black?style=flat&logo=rabbitmq&logoColor=FF6600">&nbsp;
+  <img src="https://img.shields.io/badge/Kafka-gray?style=flat&logo=apache&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/BeautifulSoup-356893?style=flat&logo=beautifulsoup&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=F29111">&nbsp;
   <img src="https://img.shields.io/badge/Node.js-215732?style=flat&logo=node.js&logoColor=white">&nbsp;
