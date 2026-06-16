@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=vscode&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Git-gray?logo=git">&nbsp;
 
 </p>
 
