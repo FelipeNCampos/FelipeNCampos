@@ -45,7 +45,7 @@
 
 
   <a alling="left" href="https://open.spotify.com/user/xz0dnlfhx4tcibgjncf9fjpaq">
-    <img height="300" allign="left" src="https://spotify-recently-played-readme.vercel.app/api?user=31qyvajxx77cvug363rskjlgsixm"  />
+    <img height="300" allign="left" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31qyvajxx77cvug363rskjlgsixm"  />
     <br clear="both">
 
 
