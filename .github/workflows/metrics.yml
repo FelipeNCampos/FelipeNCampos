@@ -1,0 +1,63 @@
+name: Atualizar painel do perfil
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/metrics.yml'
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/metrics.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-metrics-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -v
+
+  update:
+    needs: verify
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Coletar dados e gerar SVG
+        run: python scripts/generate_metrics.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Versionar somente os dados gerados
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/metrics/data.json assets/metrics/dashboard.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: atualizar métricas públicas do perfil"
+            git push
+          fi
