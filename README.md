@@ -5,7 +5,11 @@
 Meus projetos públicos incluem bots, coleta de dados e aplicações web.   
 Trabalho com Python e FastAPI no backend e com React e TypeScript em interfaces.
 
-[Portfólio](https://felipencampos.github.io/portifolio/) · [LinkedIn](https://www.linkedin.com/in/felipe-nunes-campos-b25945332) · [Repositórios](https://github.com/FelipeNCampos?tab=repositories)
+<p align="center">
+  <a href="https://felipencampos.github.io/portifolio/">Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/felipe-nunes-campos-b25945332">LinkedIn</a> ·
+  <a href="https://github.com/FelipeNCampos?tab=repositories">Repositórios</a>
+</p>
 
 <p align="center">
   <a href="assets/metrics/dashboard.svg">
@@ -27,7 +31,7 @@ Trabalho com Python e FastAPI no backend e com React e TypeScript em interfaces.
 <details>
 <summary><strong>Ferramentas e áreas de interesse</strong></summary>
 
-- **Backend e dados:** Python, FastAPI, PostgreSQL, MySQL e SQLite.
+- **Backend e dados:** Python, Java, Go, FastAPI, PostgreSQL, MySQL, MongoDB, SQLite.
 - **Interfaces:** React, TypeScript, JavaScript, HTML, CSS e Sass.
 - **Automação e qualidade:** Playwright, Selenium, BeautifulSoup e pytest.
 - **Entrega e versionamento:** Docker, Git, GitHub e GitHub Pages.
@@ -39,9 +43,22 @@ As ferramentas refletem os projetos públicos e as preferências já apresentada
 <details>
 <summary><strong>Mais sobre mim</strong></summary>
 
-<p align="left">
-  <img src="https://66.media.tumblr.com/861d6dfb79332a158192ac8b49e246d2/tumblr_pris9usDAM1vln3lt_540.gif" width="400" align="top" alt="GIF animado escolhido por Felipe">
-  <a href="https://open.spotify.com/user/xz0dnlfhx4tcibgjncf9fjpaq"><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xz0dnlfhx4tcibgjncf9fjpaq" width="400" align="top" alt="Últimas músicas ouvidas no Spotify de Felipe"></a>
-</p>
+<table align="left" width="49%">
+  <tr><td height="360" align="center" valign="middle">
+    <picture>
+      <source media="(max-width: 1244px)" srcset="https://66.media.tumblr.com/861d6dfb79332a158192ac8b49e246d2/tumblr_pris9usDAM1vln3lt_540.gif" width="1000">
+      <img src="https://66.media.tumblr.com/861d6dfb79332a158192ac8b49e246d2/tumblr_pris9usDAM1vln3lt_540.gif" width="370" alt="GIF animado escolhido por Felipe">
+    </picture>
+  </td></tr>
+</table>
+<table align="right" width="49%">
+  <tr><td height="360" align="center" valign="middle">
+    <a href="https://open.spotify.com/user/xz0dnlfhx4tcibgjncf9fjpaq"><picture>
+      <source media="(max-width: 1244px)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xz0dnlfhx4tcibgjncf9fjpaq" width="1000">
+      <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xz0dnlfhx4tcibgjncf9fjpaq" width="370" alt="Últimas músicas ouvidas no Spotify de Felipe">
+    </picture></a>
+  </td></tr>
+</table>
+<br clear="both">
 
 </details>
