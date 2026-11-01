@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-31T21:44:34.550059+00:00",
+  "collected_at": "2026-11-01T06:25:46.518258+00:00",
   "username": "FelipeNCampos",
   "profile": {
     "name": "Felipe Nunes",
@@ -344,6 +344,21 @@
   ],
   "events": [
     {
+      "id": "25792904837",
+      "type": "CreateEvent",
+      "created_at": "2026-10-30T12:04:54Z"
+    },
+    {
+      "id": "25782917861",
+      "type": "CreateEvent",
+      "created_at": "2026-10-30T12:05:03Z"
+    },
+    {
+      "id": "25773264542",
+      "type": "CreateEvent",
+      "created_at": "2026-10-30T12:04:58Z"
+    },
+    {
       "id": "18663174658",
       "type": "PullRequestEvent",
       "created_at": "2026-10-30T12:06:15Z"
@@ -505,41 +520,6 @@
     }
   ],
   "days": [
-    {
-      "date": "2025-10-26",
-      "level": 1,
-      "count": 6
-    },
-    {
-      "date": "2025-10-27",
-      "level": 1,
-      "count": 4
-    },
-    {
-      "date": "2025-10-28",
-      "level": 1,
-      "count": 2
-    },
-    {
-      "date": "2025-10-29",
-      "level": 1,
-      "count": 1
-    },
-    {
-      "date": "2025-10-30",
-      "level": 1,
-      "count": 3
-    },
-    {
-      "date": "2025-10-31",
-      "level": 1,
-      "count": 3
-    },
-    {
-      "date": "2025-11-01",
-      "level": 1,
-      "count": 5
-    },
     {
       "date": "2025-11-02",
       "level": 1,
@@ -2359,6 +2339,11 @@
       "date": "2026-10-31",
       "level": 1,
       "count": 2
+    },
+    {
+      "date": "2026-11-01",
+      "level": 0,
+      "count": 0
     }
   ]
 }
