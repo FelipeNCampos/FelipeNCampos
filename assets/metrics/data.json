@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-01T22:11:53.359163+00:00",
+  "collected_at": "2026-11-02T06:27:21.279289+00:00",
   "username": "FelipeNCampos",
   "profile": {
     "name": "Felipe Nunes",
@@ -517,16 +517,6 @@
       "id": "16474822752",
       "type": "WatchEvent",
       "created_at": "2026-10-05T17:35:06Z"
-    },
-    {
-      "id": "16298133030",
-      "type": "WatchEvent",
-      "created_at": "2026-10-02T18:01:06Z"
-    },
-    {
-      "id": "16291184852",
-      "type": "ForkEvent",
-      "created_at": "2026-10-02T16:14:18Z"
     }
   ],
   "days": [
@@ -2352,6 +2342,11 @@
     },
     {
       "date": "2026-11-01",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
       "level": 0,
       "count": 0
     }
