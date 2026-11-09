@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-08T22:16:30.682826+00:00",
+  "collected_at": "2026-11-09T06:53:22.350279+00:00",
   "username": "FelipeNCampos",
   "profile": {
     "name": "Felipe Nunes",
@@ -2330,13 +2330,13 @@
     },
     {
       "date": "2026-11-03",
-      "level": 1,
-      "count": 10
+      "level": 3,
+      "count": 37
     },
     {
       "date": "2026-11-04",
       "level": 1,
-      "count": 6
+      "count": 12
     },
     {
       "date": "2026-11-05",
@@ -2351,10 +2351,15 @@
     {
       "date": "2026-11-07",
       "level": 1,
-      "count": 2
+      "count": 3
     },
     {
       "date": "2026-11-08",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
       "level": 0,
       "count": 0
     }
