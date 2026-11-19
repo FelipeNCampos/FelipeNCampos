@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-18T20:42:48.459855+00:00",
+  "collected_at": "2026-11-19T07:39:28.690352+00:00",
   "username": "FelipeNCampos",
   "profile": {
     "name": "Felipe Nunes",
@@ -395,6 +395,11 @@
     }
   ],
   "events": [
+    {
+      "id": "20570899293",
+      "type": "WatchEvent",
+      "created_at": "2026-11-18T21:52:09Z"
+    },
     {
       "id": "27333540198",
       "type": "CreateEvent",
@@ -2466,6 +2471,11 @@
       "date": "2026-11-18",
       "level": 1,
       "count": 6
+    },
+    {
+      "date": "2026-11-19",
+      "level": 0,
+      "count": 0
     }
   ]
 }
