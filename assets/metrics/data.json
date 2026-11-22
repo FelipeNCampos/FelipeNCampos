@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-21T19:29:55.252304+00:00",
+  "collected_at": "2026-11-22T07:07:04.389960+00:00",
   "username": "FelipeNCampos",
   "profile": {
     "name": "Felipe Nunes",
@@ -632,41 +632,6 @@
     }
   ],
   "days": [
-    {
-      "date": "2025-11-16",
-      "level": 1,
-      "count": 4
-    },
-    {
-      "date": "2025-11-17",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-18",
-      "level": 1,
-      "count": 1
-    },
-    {
-      "date": "2025-11-19",
-      "level": 1,
-      "count": 4
-    },
-    {
-      "date": "2025-11-20",
-      "level": 1,
-      "count": 2
-    },
-    {
-      "date": "2025-11-21",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-22",
-      "level": 1,
-      "count": 4
-    },
     {
       "date": "2025-11-23",
       "level": 1,
@@ -2484,6 +2449,11 @@
     },
     {
       "date": "2026-11-21",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
       "level": 0,
       "count": 0
     }
