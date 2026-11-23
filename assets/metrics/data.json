@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-22T19:51:09.764647+00:00",
+  "collected_at": "2026-11-23T07:53:53.173901+00:00",
   "username": "FelipeNCampos",
   "profile": {
     "name": "Felipe Nunes",
@@ -604,31 +604,6 @@
       "id": "25004871588",
       "type": "PushEvent",
       "created_at": "2026-10-24T08:09:35Z"
-    },
-    {
-      "id": "18066462084",
-      "type": "PublicEvent",
-      "created_at": "2026-07-14T23:44:50Z"
-    },
-    {
-      "id": "18066432898",
-      "type": "PublicEvent",
-      "created_at": "2026-06-27T15:02:07Z"
-    },
-    {
-      "id": "18066417471",
-      "type": "PublicEvent",
-      "created_at": "2026-06-29T00:13:00Z"
-    },
-    {
-      "id": "18066380553",
-      "type": "PublicEvent",
-      "created_at": "2026-05-27T17:14:16Z"
-    },
-    {
-      "id": "18066301695",
-      "type": "PublicEvent",
-      "created_at": "2026-06-25T05:32:11Z"
     }
   ],
   "days": [
@@ -2454,6 +2429,11 @@
     },
     {
       "date": "2026-11-22",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
       "level": 0,
       "count": 0
     }
