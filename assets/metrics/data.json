@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-25T21:50:40.211224+00:00",
+  "collected_at": "2026-11-26T08:38:07.090340+00:00",
   "username": "FelipeNCampos",
   "profile": {
     "name": "Felipe Nunes",
@@ -2374,6 +2374,11 @@
     },
     {
       "date": "2026-11-25",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
       "level": 0,
       "count": 0
     }
